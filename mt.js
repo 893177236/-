@@ -2,7 +2,7 @@
 // @name         MT论坛
 // @namespace    http://tampermonkey.net/
 // @description  MT论坛效果增强，如自动签到、自动展开帖子、显示uid、屏蔽用户等
-// @version      2.0.9
+// @version      2.1.0
 // @author       MT-戒酒的李白染
 // @icon         https://bbs.binmt.cc/favicon.ico
 // @match        *://bbs.binmt.cc/*
@@ -16,9 +16,9 @@
 // @grant        GM_setClipboard
 // @run-at       document-start
 // @supportURL   https://github.com/893177236/Monkey_script
-// @require	     http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js
-// @require https://greasyfork.org/scripts/428273-nanogallery/code/nanogallery.js?version=942794
-// @require https://greasyfork.org/scripts/428274-jsonp/code/jsonp.js?version=942742
+// @require	 http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js
+// @require      https://gitee.com/whitesev/static_resource/raw/master/img_pre/jquery.nanogallery.js
+// @require      https://gitee.com/whitesev/static_resource/raw/master/img_pre/jquery.jsonp.js
 // ==/UserScript==
 
 (function () {
