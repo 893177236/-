@@ -17,8 +17,8 @@
 // @run-at       document-start
 // @supportURL   https://github.com/893177236/Monkey_script
 // @require	 http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js
-// @require      https://gitee.com/whitesev/static_resource/raw/master/img_pre/jquery.nanogallery.js
-// @require      https://gitee.com/whitesev/static_resource/raw/master/img_pre/jquery.jsonp.js
+// @require      https://cdn.jsdelivr.net/gh/WhiteSevs/Monkey_script/jquery.nanogallery.js
+// @require      https://cdn.jsdelivr.net/gh/WhiteSevs/Monkey_script/jquery.jsonp.js
 // ==/UserScript==
 
 (function () {
